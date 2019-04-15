@@ -8,3 +8,4 @@ Grub.prototype.eat = function(){
     console.log("yum");
 }
 
+  
